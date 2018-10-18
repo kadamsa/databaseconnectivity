@@ -36,7 +36,7 @@ public class Student {
 	public void setAddress(String address) {
 		this.address = address;
 	}
-
+//this is deafualt constructor
 	public Student() {
 		// TODO Auto-generated constructor stub
 	}
