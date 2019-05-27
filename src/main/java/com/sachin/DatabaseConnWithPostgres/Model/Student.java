@@ -5,7 +5,7 @@ public class Student {
 	public int id;
 	public String name;
 	public String address;
-	public String lang;
+	//public String lang;
 
 	public Student(int id, String name, String address) {
 		super();
